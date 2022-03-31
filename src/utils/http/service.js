@@ -4,7 +4,7 @@ const service = axios.create({
     timeout: 10 * 1000,
     // baseUrl : process.env.NODE_ENV=="development" ? "/data" : "http://10.0.1.174:8080"
 });
-service.baseUrl = process.env.NODE_ENV=="development" ? "" : "http://10.0.1.174:8080"
+service.baseUrl = process.env.NODE_ENV=="development" ? "/data" : "http://10.0.1.174:8080"
 
 service.interceptors.request.use(
     (config) => {
