@@ -1,0 +1,5 @@
+[
+    { "category": "待处理", "value": 5 },
+    { "category": "处理中", "value": 1 },
+    { "category": "已完成", "value": 7 }
+  ]

@@ -1,0 +1,31 @@
+
+@font-face {  
+    font-family: 'aa';   
+    src: url('./font/TanXianWeiZhengZhongHeiJianTi-1_1.ttf');  
+    font-weight: normal;  
+    font-style: normal;  
+}
+@font-face {  
+    font-family: 'Regular';   
+    src: url('./font/Voltage-Regular-2_1.otf');  
+    font-weight: normal;  
+    font-style: normal;  
+}
+@font-face {  
+    font-family: 'Helvetica-Narrow_0';   
+    src: url('./font/Helvetica-Narrow_0.ttf');  
+    font-weight: normal;  
+    font-style: normal;  
+}
+@font-face {  
+    font-family: 'TanXianWeiZhengCuHeiJianTi';   
+    src: url('./font/TanXianWeiZhengCuHeiJianTi-1.ttf');  
+    font-weight: normal;  
+    font-style: normal;  
+}
+@font-face {  
+    font-family: 'TanXianWeiZhengHeiJianTi-1_0';   
+    src: url('./font/TanXianWeiZhengHeiJianTi-1_0.ttf');  
+    font-weight: normal;  
+    font-style: normal;  
+}

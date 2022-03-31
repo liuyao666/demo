@@ -1,0 +1,6 @@
+[
+    { "category": "黑名单人员告警", "value": 33 },
+    { "category": "黑名单警车告警", "value": 43 },
+    { "category": "周界告警", "value": 53 },
+    { "category": "视频巡更告警", "value": 25 }
+  ]
